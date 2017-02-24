@@ -15,7 +15,9 @@ So let's begin :)
 
 ### Issue description
 <!--- Use our forum https://forums.nukkit.io for questions -->
-Schrijf een korte beschrijving over de kwestie ### stappen om het probleem te reproduceren <!---ons Helpen bij het vinden van het probleem door het toevoegen van stappen voor het reproduceren van het probleem--> 
+Schrijf een korte beschrijving over de kwestie 
+### stappen om het probleem te reproduceren 
+<!---ons Helpen bij het vinden van het probleem door het toevoegen van stappen voor het reproduceren van het probleem--> 
 1. ...
 2. ...
 3. ...
