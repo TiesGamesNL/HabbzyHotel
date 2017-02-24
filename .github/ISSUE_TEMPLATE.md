@@ -28,13 +28,10 @@ Schrijf een korte beschrijving over de kwestie
 <!---Net schrijf niet "laatste" hier--> 
 <!---Gebruik ' flash-versie ' in de opdrachtregel--> 
 * flash-versie:??
-<!--Welk systeem opent u uw Habbzy in? Linux? Windows? Schrijf het hier--> 
-* Host OS:??
-<!---Apparaat en host configuratie, zoals: 8GB RAM, 12-core Intel X5650 CPU, 100 Mb internet uploaden. kan je hen uit host provider of hardware informatie software--> 
-* Hostconfiguratie:?? GB RAM?? GB?? (SSD/HDD /...) station?? klokhuis CPU uit?? (Intel/AMD /...)?? MB internet uploaden 
-<!---Windows 10? Androïde? iOS? Simulatoren met x86 platform?--> * Client Edition:??
+<!--Welk systeem opent u uw Habbzy in? Linux? Windows? Schrijf het hier-->  
+* Client Edition:??
 <!---Versie, zoals 1.2, 1.3 of 1.4 build 1 enzovoort--> 
-* clientversie:??.??.??
+* clientversie:??
 
 ### Error code, backtrace of andere bestanden 
 <!---gebruik gist of iets anders en voeg links hier--> 
