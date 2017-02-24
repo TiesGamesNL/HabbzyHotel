@@ -40,7 +40,7 @@ Schrijf een korte beschrijving over de kwestie
 <!---gebruik gist of iets anders en voeg links hier--> 
 * 
 ''' 
-<!---Kopiëren en plakken van uw backtrace hier...--> 
+<!---Kopiëren en plak van uw error logg hier hier...--> 
 '''
 *
 ...
